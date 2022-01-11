@@ -1,2 +1,2 @@
-/#!bin/bash/
+#!/bin/bash
 git log --format='%H' -n5
